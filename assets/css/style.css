@@ -349,9 +349,7 @@ transform: scale(1.2)
 .home__description{
   margin-bottom: var(--mb-2);
   word-spacing: normal;
-  text-align: center;
   hypens: auto;
-  text-align-last: left;
 }
 
 .home__scroll{
